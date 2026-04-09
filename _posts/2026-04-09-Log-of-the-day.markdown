@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Earth Date 09.04.2026 (I can think. I can wait. I can fast)"
+title:  "Earth Date 09.04.2026"
 date:   2026-04-09 17:42:40 +0530
 categories: 
 ---
